@@ -55,7 +55,7 @@ A Minecraft community and server project focused on creating an enjoyable multip
 
 For project inquiries, collaboration, or professional communication:
 
-**Email:** support@aeraint.online
+**Email:** owner@aeraint.online
 
 ---
 
